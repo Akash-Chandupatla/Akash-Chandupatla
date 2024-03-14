@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Akash-Chandupatla
 - 👀 I’m interested in Fun, Learning Technologies, Deep diving
-- 🌱 I’m currently learning MERN stack/Full Stack, Anything that's Intesting!!
-- 💞️ I’m looking to collaborate on MERN stack/Full Stack Projects
+- 🌱 I’m currently learning MERN stack/Full Stack, Anything that's Intresting!!
+- 💞️ I’m looking to collaborate on MERN Stack/Full Stack Projects
 - 📫 How to reach me, Mail me @: csa244668@gmail.com
-- 😄 Pronouns: HE/HIM
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Vampire, who sucks technology..HA..HA..HAAA
 
 <!---
